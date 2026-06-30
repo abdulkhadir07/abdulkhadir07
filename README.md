@@ -27,7 +27,7 @@ A full-stack fintech application built from scratch with a Spring Boot REST API,
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java · JavaScript · TypeScript (learning)
+**Languages:** Java · JavaScript · TypeScript
 
 **Backend:** Spring Boot · REST APIs · Spring Security · JWT · JPA/Hibernate
 
