@@ -100,7 +100,7 @@ A digital wallet and remittance platform with a Spring Boot API and customer fac
 ## Education
 
 **San Francisco State University**  
-B.S. Computer Science · Expected December 2027 · GPA 3.80
+B.S. Computer Science · Expected August 2028 · GPA 3.80
 
 ---
 
