@@ -2,7 +2,7 @@
 
 Computer Science sophomore at San Francisco State University with a 3.80 GPA, building production minded software products across social connection, fintech, and AI assisted student experiences.
 
-I work across backend architecture, frontend interfaces, data modeling, security, automated testing, and cloud deployment.
+I work across system design including backend architecture, frontend interfaces, data modeling, security, automated testing, and cloud deployment.
 
 ---
 
